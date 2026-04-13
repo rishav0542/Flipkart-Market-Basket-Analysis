@@ -28,37 +28,37 @@ To understand customer purchasing behaviour, identify frequently bought-together
 
 **Strongest bundle:** Clothing + Beauty products
 
-## 📈 Key Visualizations
+## 📊 Key Visualizations
 
 ### 1. Customer Segment Sizes
-![Customer Segment Sizes](Customer%20Segment%20Sizes.png)
+![Customer Segment Sizes](FLIPKART%20MBA%20VISUALS/Customer%20Segment%20Sizes.png)
 
-### 2. Shopping Satisfaction Distribution
-![Shopping Satisfaction Distribution](Shopping%20Satisfaction%20Distribution.png)
+### 2. Shopping Satisfaction Distribution (Pie Chart)
+![Shopping Satisfaction Distribution](FLIPKART%20MBA%20VISUALS/Shopping%20Satisfaction%20Distribution.png)
 
 ### 3. Distribution of Purchase Frequency
-![Distribution of Purchase Frequency](Distribution%20of%20Purchase%20Frequency.png)
+![Distribution of Purchase Frequency](FLIPKART%20MBA%20VISUALS/Distribution%20of%20Purchase%20Frequency.png)
 
 ### 4. Distribution of Browsing Frequency
-![Distribution of Browsing Frequency](Distribution%20of%20Browsing%20Frequency.png)
+![Distribution of Browsing Frequency](FLIPKART%20MBA%20VISUALS/Distribution%20of%20Browsing%20Frequency.png)
 
 ### 5. Distribution of Purchase Categories
-![Distribution of Purchase Categories](Distribution%20of%20Purchase%20Categories.png)
+![Distribution of Purchase Categories](FLIPKART%20MBA%20VISUALS/Distribution%20of%20Purchase%20Categories.png)
 
-### 6. Recommendation Helpfulness
-![Recommendation Helpfulness](Recommend%20Helpful%20Count.png)
+### 6. Recommendation Helpfulness Count
+![Recommendation Helpfulness](FLIPKART%20MBA%20VISUALS/Recommend%20Helpful%20Count.png)
 
-### 7. Correlation between Recommendation & Satisfaction
-![Correlation between Recommendation and Satisfaction](Correlation%20Plot%20Between%20Recommendation%20and%20Satisfaction.png)
+### 7. Correlation between Recommendation and Satisfaction
+![Correlation between Recommendation and Satisfaction](FLIPKART%20MBA%20VISUALS/Correlation%20Plot%20Between%20Recommendation%20and%20Satisfaction.png)
 
 ### 8. Top Association Rules Heatmap
-![Top Association Rules](Top%20Association%20Rules.png)
+![Top Association Rules](FLIPKART%20MBA%20VISUALS/Top%20Association%20Rules.png)
 
 ### 9. Pairplot of Key Behavioural Drivers
-![Pairplot of Key Behavioural Drivers](Pairplot%20of%20Key%20Behavioural%20Drivers.png)
+![Pairplot of Key Behavioural Drivers](FLIPKART%20MBA%20VISUALS/Pairplot%20of%20Key%20Behavioural%20Drivers.png)
 
-### 10. How Reviews Affect Ratings
-![Reviews Affect Ratings](Reviews%20Affect%20Ratings%20Heatmap.png)
+### 10. How Reviews Affect Ratings (Heatmap)
+![Reviews Affect Ratings](FLIPKART%20MBA%20VISUALS/Reviews%20Affect%20Ratings%20Heatmap.png)
 
 ### Customer Segmentation
 Three clear segments were identified:
