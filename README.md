@@ -31,7 +31,7 @@ To understand customer purchasing behaviour, identify frequently bought-together
 ## 📊 Key Visualizations
 
 ### 1. Customer Segment Sizes
-![Customer Segment Sizes](FLIPKART%20MBA%20VISUALS/Customer%20Segment%20Sizes.png)
+![Customer Segment Sizes](FLIPKART%20MBA%20VISUALS/Customer%20Segment%20Size.png)
 
 ### 2. Shopping Satisfaction Distribution (Pie Chart)
 ![Shopping Satisfaction Distribution](FLIPKART%20MBA%20VISUALS/Shopping%20Satisfaction%20Distribution.png)
